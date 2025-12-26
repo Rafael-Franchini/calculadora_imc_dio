@@ -1,16 +1,16 @@
 # calculadora_imc_dio
 
-A new Flutter project.
+Checklist do Desafio
+Criar classe Pessoa (Nome / Peso / Altura) ​
 
-## Getting Started
+Ler dados do terminal​
 
-This project is a starting point for a Flutter application.
+Tratar exceções​
 
-A few resources to get you started if this is your first Flutter project:
+Calcular IMC ​
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Printar na tela o resultado do cálculo​
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Testes​
+
+ 
